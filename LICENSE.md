@@ -1,4 +1,4 @@
-# 
+# professional bybit trading bot | position-sizing + risk-management is the best bybit trading bot, featuring position-sizing and risk-management. Smart, fast, and optimized for
 
 
 
